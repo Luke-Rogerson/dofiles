@@ -15,6 +15,7 @@ alias awsiden="aws sts get-caller-identity"
 
 # misc
 alias gs="git status"
+alias killsound="sudo killall coreaudiod"
 
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
